@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SEMESTRE_9/DANP/lab08/LAB08DANP_2022/DeliveryFood-main/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.1" />
+        <entry key="..\:/SEMESTRE_9/DANP/lab08/LAB08DANP_2022/DeliveryFood-main/app/src/main/res/drawable/ic_google_maps.xml" value="0.1" />
+        <entry key="..\:/SEMESTRE_9/DANP/lab08/LAB08DANP_2022/DeliveryFood-main/app/src/main/res/drawable/ic_local_phone_24.xml" value="0.1" />
+        <entry key="..\:/SEMESTRE_9/DANP/lab08/LAB08DANP_2022/DeliveryFood-main/app/src/main/res/layout/notification_collapsed.xml" value="0.33" />
+        <entry key="..\:/SEMESTRE_9/DANP/lab08/LAB08DANP_2022/DeliveryFood-main/app/src/main/res/layout/notification_expanded.xml" value="0.33" />
         <entry key="..\:/Users/Cliente/AndroidStudioProjects/DeliveryFood-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2165" />
         <entry key="..\:/Users/Cliente/AndroidStudioProjects/DeliveryFood-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2165" />
         <entry key="..\:/Users/Cliente/AndroidStudioProjects/DeliveryFood-main/app/src/main/res/drawable/ic_test_background.xml" value="0.184" />
